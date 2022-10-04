@@ -1,0 +1,6 @@
+{
+    "Parameters": {
+        "VARIABLE_NAME": "local_variable",
+        "BUCKET_NAME": "testBucket"
+    }
+}
